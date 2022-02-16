@@ -1,4 +1,4 @@
 # Flocking behaviour (boids)
-After seeing birds flocking outside my house and becoming curious as to how exactly they do this. After some research, I have attempted simulating it in python using pygame for fun.
+Curiosity of seeing birds flock lead me to researching how exactly this happens. For fun I attempted to do a basic simulation of this in python using the pygame library.
 
 ![](animated-flocking.gif)
